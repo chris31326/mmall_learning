@@ -32,3 +32,5 @@ target/
 #system
 .DS_Store
 Thumbs.db
+
+*.properties
