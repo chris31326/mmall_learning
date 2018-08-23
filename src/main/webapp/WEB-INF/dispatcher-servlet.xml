@@ -10,7 +10,7 @@
 
     <!-- spirngMVC 配置 -->
 
-    <context:component-scan base-package="com.mmall" annotation-config="true"/>
+    <context:component-scan base-package="net.zhaoxitong.mmall" annotation-config="true"/>
 
     <mvc:annotation-driven>
         <mvc:message-converters>
